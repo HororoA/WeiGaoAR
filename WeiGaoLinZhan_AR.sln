@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2C2640A3-ACD8-DF6D-50D8-8236387F21A3}") = "WeiGaoLinZhan_AR", "Assembly-CSharp.csproj", "{D45C0957-2167-DBB0-6DC3-CF666F3198CA}"
+EndProject
+Project("{2C2640A3-ACD8-DF6D-50D8-8236387F21A3}") = "WeiGaoLinZhan_AR", "Assembly-CSharp-Editor.csproj", "{D3FCB629-805E-AA75-1B2B-4D1D8C973921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45C0957-2167-DBB0-6DC3-CF666F3198CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45C0957-2167-DBB0-6DC3-CF666F3198CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45C0957-2167-DBB0-6DC3-CF666F3198CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45C0957-2167-DBB0-6DC3-CF666F3198CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3FCB629-805E-AA75-1B2B-4D1D8C973921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FCB629-805E-AA75-1B2B-4D1D8C973921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FCB629-805E-AA75-1B2B-4D1D8C973921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FCB629-805E-AA75-1B2B-4D1D8C973921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
